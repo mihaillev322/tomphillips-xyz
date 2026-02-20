@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tomphillips.xyz/sitemap.xml
